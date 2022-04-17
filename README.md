@@ -18,7 +18,7 @@ A simple android VPN app.
 </p>
 
 # Server setup on linux
-[install vtun server with wss protocol](https://github.com/net-byte/vtun)
+[install vtun server with websocket protocol](https://github.com/net-byte/vtun)
 
 
 # Download
